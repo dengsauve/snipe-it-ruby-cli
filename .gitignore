@@ -12,6 +12,10 @@
 
 .idea/
 
+# Required for operation
+.snipe_auth_token
+.snipe_url
+
 # Used by dotenv library to load environment variables.
 # .env
 
